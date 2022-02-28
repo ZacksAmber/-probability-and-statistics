@@ -1,5 +1,6 @@
 from scipy.stats import norm
-from utils.zscore import zscore
+from utils.src._stats.zscore import zscore
+
 
 def norm_prop(dp, mu, sd, area='below'):
     """norm_prop returns the proportion of a specific area based on dp.
@@ -27,8 +28,10 @@ def norm_prop(dp, mu, sd, area='below'):
         p = 1 - norm.cdf(zscore(dp, mu, sd))
     # Proportion between dp_low and dp_high
     else:
+        if isinstance(dp, (int, float, dict, str)):
+            raise TypeError("dp must be an array like type!")
         if len(dp) != 2:
-            raise ValueError("dp must be 2 for calculating proportion between two data points!")
+            raise ValueError("dp must contains two data points!")
         dp_low, dp_high = min(dp), max(dp)
         p = norm.cdf(zscore(dp_high, mu, sd)) - norm.cdf(zscore(dp_low, mu, sd))
 
