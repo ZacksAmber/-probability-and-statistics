@@ -63,6 +63,14 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ## Hypothesis Testing
 
+### [Study Design](./study_design.ipynb)
+
 ### [Hypothesis Testing](./hypothesis_testing.ipynb)
 
 ### [Chi-squared Test](./chi-squared_test.ipynb)
+
+---
+
+## Regression
+
+### [Linear Regression](./linear_regression.ipynb)
