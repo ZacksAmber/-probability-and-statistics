@@ -46,6 +46,8 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ### [Probability](./probability.ipynb)
 
+### [Counting Permutations and Combinations](/.counting_permutations_and_combinations.ipynb)
+
 ### [Random Variables](./random_variables.ipynb)
 
 ---
