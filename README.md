@@ -50,6 +50,8 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ### [Random Variables](./random_variables.ipynb)
 
+### [Sampling Distributions](./smapling_distributions.ipynb)
+
 ---
 
 ## Distribution
