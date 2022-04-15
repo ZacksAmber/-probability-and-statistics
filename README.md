@@ -42,6 +42,17 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ---
 
+## Distribution
+
+### [Binomial Distribution](./binomial_distribution.ipynb)
+
+- [Bernoulli Distribution](./normal_distribution.ipynb)
+- [Geometric Distribution](./normal_distribution.ipynb)
+
+### [Normal Distribution](./normal_distribution.ipynb)
+
+---
+
 ## Probability
 
 ### [Probability](./probability.ipynb)
@@ -54,20 +65,11 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ---
 
-## Distribution
-
-### [Binomial Distribution](./binomial_distribution.ipynb)
-
-- [Bernoulli Distribution](./normal_distribution.ipynb)
-- [Geometric Distribution](./normal_distribution.ipynb)
-
-### [Normal Distribution](./normal_distribution.ipynb)
-
----
-
 ## Hypothesis Testing
 
 ### [Study Design](./study_design.ipynb)
+
+### [Confidence Intervals](./confidence_intervals.ipynb)
 
 ### [Hypothesis Testing](./hypothesis_testing.ipynb)
 
