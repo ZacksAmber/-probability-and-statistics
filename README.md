@@ -42,24 +42,28 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ---
 
-## Distribution
-
-### [Binomial Distribution](./binomial_distribution.ipynb)
-
-- [Bernoulli Distribution](./normal_distribution.ipynb)
-- [Geometric Distribution](./normal_distribution.ipynb)
-
-### [Normal Distribution](./normal_distribution.ipynb)
-
----
-
 ## Probability
 
 ### [Probability](./probability.ipynb)
 
+---
+
 ### [Counting Permutations and Combinations](/.counting_permutations_and_combinations.ipynb)
 
+---
+
 ### [Random Variables](./random_variables.ipynb)
+
+#### [Binomial Random Variables](./binomial.ipynb)
+
+Also include:
+- [Bernoulli Random Variables](./binomial.ipynb)
+- [Geometric Random Variables](./binomial.ipynb)
+- [Poisson Random Variables](./binomial.ipynb)
+
+#### [Normal Random Variables](./normal.ipynb)
+
+---
 
 ### [Sampling Distributions](./smapling_distributions.ipynb)
 
@@ -69,9 +73,15 @@ If your Jupyter was installed under a specific virtual environment, you need to 
 
 ### [Study Design](./study_design.ipynb)
 
+---
+
 ### [Confidence Intervals](./confidence_intervals.ipynb)
 
+---
+
 ### [Hypothesis Testing](./hypothesis_testing.ipynb)
+
+---
 
 ### [Chi-squared Test](./chi-squared_test.ipynb)
 
