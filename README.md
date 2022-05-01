@@ -1,39 +1,3 @@
-# Instruction
-
-## Python Virtual Environment
-
-Under the root directory of `statistics-and-probability`:
-
-```sh
-pipenv shell
-```
-
----
-
-## Jupyter
-
-> [Jupyter Notebook Kernels: How to Add, Change, Remove](https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove)
-
-After activate pipenv environment, you can add kernel to your Jupyter:
-
-```sh
-ipython kernel install --name "statistics-and-probability" --user
-```
-
-If you don't have jupyter, run `pipenv install jupyter --dev`.
-
----
-
-List your kernels:
-
-```sh
-jupyter-kernelspec list
-```
-
-If your Jupyter was installed under a specific virtual environment, you need to run the above list command under this env.
-
----
-
 # Statistics and Probability
 
 ## Basic
@@ -69,7 +33,7 @@ Also include:
 
 ---
 
-## Hypothesis Testing
+## Statistical Study
 
 ### [Study Design](./study_design.ipynb)
 
@@ -90,3 +54,39 @@ Also include:
 ## Regression
 
 ### [Linear Regression](./linear_regression.ipynb)
+
+---
+
+# Instruction
+
+## Python Virtual Environment
+
+Under the root directory of `statistics-and-probability`:
+
+```sh
+pipenv shell
+```
+
+---
+
+## Jupyter
+
+> [Jupyter Notebook Kernels: How to Add, Change, Remove](https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove)
+
+After activate pipenv environment, you can add kernel to your Jupyter:
+
+```sh
+ipython kernel install --name "statistics-and-probability" --user
+```
+
+If you don't have jupyter, run `pipenv install jupyter --dev`.
+
+---
+
+List your kernels:
+
+```sh
+jupyter-kernelspec list
+```
+
+If your Jupyter was installed under a specific virtual environment, you need to run the above list command under this env.

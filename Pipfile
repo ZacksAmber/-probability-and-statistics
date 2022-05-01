@@ -12,6 +12,7 @@ jupyterlab = "*"
 matplotlib = "*"
 seaborn = "*"
 plotly = "*"
+statsmodels = "*"
 
 [dev-packages]
 jupyter = "*"
