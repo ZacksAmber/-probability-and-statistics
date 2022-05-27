@@ -122,7 +122,7 @@ After activate pipenv environment, you can add kernel to your Jupyter:
 ipython kernel install --name "statistics-and-probability" --user
 ```
 
-If you don't have jupyter, run `pipenv install jupyter --dev`.
+If you don't have jupyter, run `pipenv install jupyter jupyterlab --dev`.
 
 ---
 

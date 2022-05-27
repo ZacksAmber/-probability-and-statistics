@@ -8,15 +8,15 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 scikit-learn = "*"
-jupyterlab = "*"
 matplotlib = "*"
 seaborn = "*"
 plotly = "*"
 statsmodels = "*"
+handcalcs = "*"
 
 [dev-packages]
 jupyter = "*"
-rpy2 = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.9"
