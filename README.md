@@ -44,6 +44,10 @@ Also include:
 
 ### [Confidence Intervals](./confidence_intervals.ipynb)
 
+The **margin of error** is a statistic expressing the amount of random [sampling error](https://en.wikipedia.org/wiki/Sampling_error "Sampling error") in the results of a [survey](https://en.wikipedia.org/wiki/Statistical_survey "Statistical survey").
+
+The **margin of error** is a statistic expressing the amount of random [sampling error](https://en.wikipedia.org/wiki/Sampling_error "Sampling error") in the results of a [survey](https://en.wikipedia.org/wiki/Statistical_survey "Statistical survey").
+
 - One-proportion z interval (One-sample z interval for a proportion)
 - One-sample t interval (One-sample t interval for a mean)
 
