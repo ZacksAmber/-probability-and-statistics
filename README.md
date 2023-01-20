@@ -30,6 +30,12 @@ Also include:
 
 #### [Normal Random Variables](./normal.ipynb)
 
+> [Continuous Probability Distributions for Machine Learning](https://machinelearningmastery.com/continuous-probability-distributions-for-machine-learning/)
+
+- PDF: Probability Density Function, returns the probability of a given continuous outcome.
+- CDF: Cumulative Distribution Function, returns the probability of a value less than or equal to a given outcome.
+- PPF: Percent-Point Function, returns a discrete value that is less than or equal to the given probability.
+
 ---
 
 ### [Sampling Distributions](./smapling_distributions.ipynb)
@@ -43,8 +49,6 @@ Also include:
 ---
 
 ### [Confidence Intervals](./confidence_intervals.ipynb)
-
-The **margin of error** is a statistic expressing the amount of random [sampling error](https://en.wikipedia.org/wiki/Sampling_error "Sampling error") in the results of a [survey](https://en.wikipedia.org/wiki/Statistical_survey "Statistical survey").
 
 The **margin of error** is a statistic expressing the amount of random [sampling error](https://en.wikipedia.org/wiki/Sampling_error "Sampling error") in the results of a [survey](https://en.wikipedia.org/wiki/Statistical_survey "Statistical survey").
 

@@ -13,6 +13,7 @@ seaborn = "*"
 plotly = "*"
 statsmodels = "*"
 handcalcs = "*"
+rpy2 = "*"
 
 [dev-packages]
 jupyter = "*"
