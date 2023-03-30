@@ -18,6 +18,9 @@ rpy2 = "*"
 [dev-packages]
 jupyter = "*"
 jupyterlab = "*"
+jupyterlab-code-formatter = "*"
+black = "*"
+isort = "*"
 
 [requires]
 python_version = "3.10"
