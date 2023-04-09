@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7594b911b9da7c4c7d470b58e8dd2b2a7c8925d159506fe04f8a4f696af6c348"
+            "sha256": "c01f757aa38f67ac582793f326a654d8340e36aaa86c37469c52272173c02464"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -264,6 +264,18 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==0.2.2"
+        },
+        "kaleido": {
+            "hashes": [
+                "sha256:4670985f28913c2d063c5734d125ecc28e40810141bdb0a46f15b76c1d45f23c",
+                "sha256:845819844c8082c9469d9c17e42621fbf85c2b237ef8a86ec8a8527f98b6512a",
+                "sha256:aa21cf1bf1c78f8fa50a9f7d45e1003c387bd3d6fe0a767cfbbf344b95bdc3a8",
+                "sha256:bb9a5d1f710357d5d432ee240ef6658a6d124c3e610935817b4b42da9c787c05",
+                "sha256:ca6f73e7ff00aaebf2843f73f1d3bacde1930ef5041093fe76b83a15785049a7",
+                "sha256:ecc72635860be616c6b7161807a65c0dbd9b90c6437ac96965831e2e24066552"
+            ],
+            "index": "pypi",
+            "version": "==0.2.1"
         },
         "kiwisolver": {
             "hashes": [
@@ -1436,11 +1448,11 @@
         },
         "ipython": {
             "hashes": [
-                "sha256:5b54478e459155a326bf5f42ee4f29df76258c0279c36f21d71ddb560f88b156",
-                "sha256:735cede4099dbc903ee540307b9171fbfef4aa75cfcacc5a273b2cda2f02be04"
+                "sha256:1c183bf61b148b00bcebfa5d9b39312733ae97f6dad90d7e9b4d86c8647f498c",
+                "sha256:a950236df04ad75b5bc7f816f9af3d74dc118fd42f2ff7e80e8e60ca1f182e2d"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==8.11.0"
+            "version": "==8.12.0"
         },
         "ipython-genutils": {
             "hashes": [
@@ -1712,11 +1724,11 @@
         },
         "nbclassic": {
             "hashes": [
-                "sha256:889772a7ba524eb781d2901f396540bcad41151e1f7e043f12ebc14a6540d342",
-                "sha256:e849277872d9ffd8fe4b39a8038d01ba82d6a1def9ce11b1b3c26c9546ed5131"
+                "sha256:312b3f7d7ff2e6c261d51799bb12e6493498ab47d3469d3a01015d5533fd4d2b",
+                "sha256:df78e4ba143f35084ad060deec16cb1d4839dde47bfdbc4232beb7071a6d70ea"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.5.3"
+            "version": "==0.5.4"
         },
         "nbclient": {
             "hashes": [
